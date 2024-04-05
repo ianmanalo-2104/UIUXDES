@@ -1,0 +1,53 @@
+#mainNav{
+    background-color: #E5E7DD;
+    width: 100%;
+    color: #1f0202; 
+    padding: 10px 0; 
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 1000;
+}
+
+
+.navbar-text {
+    font-size: 2vw; 
+    margin-right: 50px; 
+    color: #F5F5F5;
+    font-weight: bold;
+}
+
+.navbar-brand{
+    margin-left: 100px;
+    
+}
+
+body{
+    margin:0;
+    padding: 0;
+    font-family: montserrat;
+    height: 100vh;
+}
+
+
+
+
+
+
+.footer-container {
+    padding: 20px;
+
+    background-color: #E5E7DD;
+    color: #1B1C1E;
+}
+
+.footer {
+    position: fixed;
+    bottom: -50px; 
+    left: 0;
+    width: 100%;
+    background-color: #E5E7DD;
+    color: #1B1C1E;
+    z-index: 999; 
+}
+
