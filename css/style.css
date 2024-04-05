@@ -29,7 +29,10 @@ body{
     height: 100vh;
 }
 
-
+#northLogin{
+    background-color: #FFEFD5;
+    color: #A52A2A;
+}
 
 
 
