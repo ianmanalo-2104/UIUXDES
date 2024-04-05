@@ -60,7 +60,7 @@ body{
 
 .success {
     color: #A52A2A;
-    font-family: 'Jua';
+    font-family: 'Jua', sans-serif;
     font-size: 70px;
     margin-top: -40px; /* Adjust as needed */
     margin-bottom: -10px;
@@ -70,7 +70,7 @@ body{
     color: #FFFFFF;
     font-family: 'Krub';
     font-size: 20px;
-    font-style: medium italic;
+    font-style: italic;
     top: -90px;
 }
 
@@ -93,8 +93,7 @@ body{
 .ticket-text {
     color: #A52A2A; /* Text color */
     font-size: 24px; /* Adjust font size as needed */
-    font-weight: bold; /* Optional: Make text bold */
-    font-family: 'Jua';
+    font-family: 'Jua', sans-serif;
     position: absolute; /* Position text absolutely */
     top: 10px; /* Adjust top position */
     left: 50%; /* Center horizontally */
@@ -103,8 +102,8 @@ body{
 .queue-num {
     color: #A52A2A; /* Text color */
     font-size: 300px; /* Adjust font size as needed */
-    font-weight: bold; /* Optional: Make text bold */
-    font-family: 'Jua';
+    font-family: 'Jua', sans-serif;
+    font-weight: 200;
     top: 50%; /* Center vertically */
     left: 50%; /* Center horizontally */
     position: absolute; /* Position text absolutely */
@@ -115,7 +114,7 @@ body{
     color: #A52A2A; /* Text color */
     font-size: 24px; /* Adjust font size as needed */
     font-weight: bold;
-    font-family: 'Jua';
+    font-family: 'Jua', sans-serif;
     position: absolute; /* Position text absolutely */
     bottom: 5px; /* Adjust bottom position */
     left: 50%; /* Center horizontally */
