@@ -1,7 +1,7 @@
 #mainNav{
     background-color: #E5E7DD;
     width: 100%;
-    color: #1f0202; 
+    color: #A52A2A; 
     padding: 10px 0; 
     position: fixed;
     top: 0;
@@ -9,7 +9,9 @@
     z-index: 1000;
 }
 
-
+#pages .nav-link{
+    color:#A52A2A !important
+}
 .navbar-text {
     font-size: 2vw; 
     margin-right: 50px; 
@@ -30,7 +32,10 @@ body{
 }
 
 
-
+#northLogin{
+    color: #A52A2A;
+    background-color: #FFEFD5;
+}
 
 
 
